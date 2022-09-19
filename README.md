@@ -34,7 +34,6 @@ List of useful resources about Data, AI &amp; Cloud
 - [Will Koehrsen](https://williamkoehrsen.medium.com/)
 - [Machine Learning Mastery](https://machinelearningmastery.com/)
 - [Daniel Bourke](https://www.mrdbourke.com/)
-- [Retire In Progress](https://retireinprogress.com/)
 - [Wait But Why](https://waitbutwhy.com/)
 - [Melting Asphalt](https://meltingasphalt.com/)
 - [fs](https://fs.blog/)
@@ -103,6 +102,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [A not so gentle intro to web3](https://www.kooslooijesteijn.net/blog/web3)
 
 ## Personal Finance
+- [Retire In Progress](https://retireinprogress.com/)
 - [Portfolio Charts](https://portfoliocharts.com/)
 - [Reddit Personal Finance](https://www.reddit.com/r/personalfinance/wiki/index/)
 
