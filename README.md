@@ -1,3 +1,9 @@
+<a href="https://www.buymeacoffee.com/pierpaolo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a> <br>
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 # Keeping-Learning
 List of useful resources about Data, AI &amp; Cloud
 
@@ -53,6 +59,18 @@ List of useful resources about Data, AI &amp; Cloud
 - [Spurious Correlations](https://tylervigen.com/spurious-correlations)
 - [MLU Explain](https://mlu-explain.github.io/)
 
+## YouTube
+- [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+- [Yannic Kilcher](https://www.youtube.com/yannickilcher)
+- [Alfredo Canziani](https://www.youtube.com/channel/UCupQLyNchb9-2Z5lmUOIijw)
+- [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
+- [Steve Brunton](https://www.youtube.com/c/Eigensteve/featured)
+- [Alexander Amini](https://www.youtube.com/user/Zan560/featured)
+- [Arxiv Insights](https://www.youtube.com/c/ArxivInsights/featured)
+- [Lex Fridman](https://www.youtube.com/c/lexfridman)
+- [Serrano.Academy](https://www.youtube.com/c/LuisSerrano)
+- [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)
+
 ## Cloud
 - [AWS Workshops](https://workshops.aws/)
 - [Microsoft Azure - Virtual Training Days](https://www.microsoft.com/en-us/trainingdays/azure)
@@ -75,26 +93,6 @@ List of useful resources about Data, AI &amp; Cloud
 - [Kaggle Days](https://kaggledays.com/)
 - [Levels.fyi](https://www.levels.fyi/blog/)
 
-## YouTube
-- [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
-- [Yannic Kilcher](https://www.youtube.com/yannickilcher)
-- [Alfredo Canziani](https://www.youtube.com/channel/UCupQLyNchb9-2Z5lmUOIijw)
-- [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
-- [Steve Brunton](https://www.youtube.com/c/Eigensteve/featured)
-- [Alexander Amini](https://www.youtube.com/user/Zan560/featured)
-- [Arxiv Insights](https://www.youtube.com/c/ArxivInsights/featured)
-- [Lex Fridman](https://www.youtube.com/c/lexfridman)
-- [Serrano.Academy](https://www.youtube.com/c/LuisSerrano)
-- [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)
-
-## Jobs
-- [LinkedIn Sales Navigator](https://www.linkedin.com/sales/ssi)
-- [Awesome Italia Remote](https://github.com/italiaremote/awesome-italia-remote)
-- [Layoffs.fyi](https://layoffs.fyi/)
-- [Interview Warmup - Google](https://grow.google/certificates/interview-warmup/)
-- [Funded & Hiring](https://fundedandhiring.com/)
-- [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
-
 ## Interesting concepts
 - [Aggregation Theory](https://stratechery.com/2015/aggregation-theory/)
 - [Principles - Ray Dalio](https://www.principles.com/)
@@ -112,3 +110,15 @@ List of useful resources about Data, AI &amp; Cloud
 - [XKCD](https://xkcd.com/)
 - [Dilbert](https://dilbert.com/)
 - [SMBC](https://www.smbc-comics.com/)
+
+[contributors-shield]: https://img.shields.io/github/contributors/pierpaolo28/Artificial-Intelligence-Projects.svg?style=flat-square
+[contributors-url]: https://github.com/pierpaolo28/Artificial-Intelligence-Projects/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/pierpaolo28/Artificial-Intelligence-Projects.svg?style=flat-square
+[forks-url]: https://github.com/pierpaolo28/Artificial-Intelligence-Projects/network/members
+[stars-shield]: https://img.shields.io/github/stars/pierpaolo28/Artificial-Intelligence-Projects.svg?style=flat-square
+[stars-url]: https://github.com/pierpaolo28/Artificial-Intelligence-Projects/stargazers
+[issues-shield]: https://img.shields.io/github/issues/pierpaolo28/Artificial-Intelligence-Projects.svg?style=flat-square
+[issues-url]: https://github.com/pierpaolo28/Artificial-Intelligence-Projects/issues
+[license-shield]: https://img.shields.io/github/license/pierpaolo28/Artificial-Intelligence-Projects.svg?style=flat-square
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/pierpaolo28/
