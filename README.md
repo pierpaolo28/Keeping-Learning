@@ -111,14 +111,14 @@ List of useful resources about Data, AI &amp; Cloud
 - [Dilbert](https://dilbert.com/)
 - [SMBC](https://www.smbc-comics.com/)
 
-[contributors-shield]: https://img.shields.io/github/contributors/pierpaolo28/Artificial-Intelligence-Projects.svg?style=flat-square
-[contributors-url]: https://github.com/pierpaolo28/Artificial-Intelligence-Projects/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/pierpaolo28/Artificial-Intelligence-Projects.svg?style=flat-square
-[forks-url]: https://github.com/pierpaolo28/Artificial-Intelligence-Projects/network/members
-[stars-shield]: https://img.shields.io/github/stars/pierpaolo28/Artificial-Intelligence-Projects.svg?style=flat-square
-[stars-url]: https://github.com/pierpaolo28/Artificial-Intelligence-Projects/stargazers
-[issues-shield]: https://img.shields.io/github/issues/pierpaolo28/Artificial-Intelligence-Projects.svg?style=flat-square
-[issues-url]: https://github.com/pierpaolo28/Artificial-Intelligence-Projects/issues
-[license-shield]: https://img.shields.io/github/license/pierpaolo28/Artificial-Intelligence-Projects.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/pierpaolo28/Keeping-Learning.svg?style=flat-square
+[contributors-url]: https://github.com/pierpaolo28/Keeping-Learning/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/pierpaolo28/Keeping-Learning.svg?style=flat-square
+[forks-url]: https://github.com/pierpaolo28/Keeping-Learning/network/members
+[stars-shield]: https://img.shields.io/github/stars/pierpaolo28/Keeping-Learning.svg?style=flat-square
+[stars-url]: https://github.com/pierpaolo28/Keeping-Learning/stargazers
+[issues-shield]: https://img.shields.io/github/issues/pierpaolo28/Keeping-Learning.svg?style=flat-square
+[issues-url]: https://github.com/pierpaolo28/Keeping-Learning/issues
+[license-shield]: https://img.shields.io/github/license/pierpaolo28/Keeping-Learning.svg?style=flat-square
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/pierpaolo28/
