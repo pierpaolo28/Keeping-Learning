@@ -32,6 +32,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Bnomial](https://today.bnomial.com/)
 - [Francesco Zuppichini](https://medium.com/@FrancescoZ)
 - [Will Koehrsen](https://williamkoehrsen.medium.com/)
+- [Moez Ali](https://moez-62905.medium.com/)
 - [Machine Learning Mastery](https://machinelearningmastery.com/)
 - [Daniel Bourke](https://www.mrdbourke.com/)
 - [Amit Chaudhary](https://amitness.com/)
