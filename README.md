@@ -94,6 +94,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [The Woke Salaryman](https://thewokesalaryman.com/)
 - [Kaggle Days](https://kaggledays.com/)
 - [Levels.fyi](https://www.levels.fyi/blog/)
+- [Sifted](https://sifted.eu/)
 
 ## Interesting concepts
 - [Aggregation Theory](https://stratechery.com/2015/aggregation-theory/)
