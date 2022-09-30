@@ -40,6 +40,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Wait But Why](https://waitbutwhy.com/)
 - [Melting Asphalt](https://meltingasphalt.com/)
 - [fs](https://fs.blog/)
+- [More to That](https://moretothat.com/)
 
 ## Courses
 - [Made With ML](https://madewithml.com/)
