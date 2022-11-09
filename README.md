@@ -111,6 +111,9 @@ List of useful resources about Data, AI &amp; Cloud
 - [Retire In Progress](https://retireinprogress.com/)
 - [Portfolio Charts](https://portfoliocharts.com/)
 - [Reddit Personal Finance](https://www.reddit.com/r/personalfinance/wiki/index/)
+- [JustETF](https://www.justetf.com/en/)
+- [Morning Star](https://www.morningstar.com/)
+- [ETF.com](https://www.etf.com/etfanalytics/etf-finder/)
 
 ## Fun
 - [XKCD](https://xkcd.com/)
