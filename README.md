@@ -42,6 +42,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Melting Asphalt](https://meltingasphalt.com/)
 - [fs](https://fs.blog/)
 - [More to That](https://moretothat.com/)
+- [Stratechery](https://stratechery.com/)
 
 ## Courses
 - [Made With ML](https://madewithml.com/)
