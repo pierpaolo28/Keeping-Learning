@@ -43,6 +43,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [fs](https://fs.blog/)
 - [More to That](https://moretothat.com/)
 - [Stratechery](https://stratechery.com/)
+- [Less Wrong](https://www.lesswrong.com/)
 
 ## Courses
 - [Made With ML](https://madewithml.com/)
