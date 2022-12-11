@@ -45,6 +45,8 @@ List of useful resources about Data, AI &amp; Cloud
 - [Stratechery](https://stratechery.com/)
 - [Less Wrong](https://www.lesswrong.com/)
 - [LIFECLUB](https://lifeclub.org/)
+- [Kalani Scarrott](https://kscarrott.com/)
+- [Aure's Notes](https://auresnotes.com/)
 
 ## Courses
 - [Made With ML](https://madewithml.com/)
