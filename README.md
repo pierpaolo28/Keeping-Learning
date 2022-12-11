@@ -47,6 +47,8 @@ List of useful resources about Data, AI &amp; Cloud
 - [LIFECLUB](https://lifeclub.org/)
 - [Kalani Scarrott](https://kscarrott.com/)
 - [Aure's Notes](https://auresnotes.com/)
+- [Calvin Rosser](https://calvinrosser.com/)
+- [Dean Yeong](https://www.deanyeong.com/)
 
 ## Courses
 - [Made With ML](https://madewithml.com/)
@@ -114,6 +116,7 @@ List of useful resources about Data, AI &amp; Cloud
 
 ## Personal Finance
 - [Retire In Progress](https://retireinprogress.com/)
+- [Accidentally Retired](https://accidentallyretired.com/)
 - [Portfolio Charts](https://portfoliocharts.com/)
 - [Reddit Personal Finance](https://www.reddit.com/r/personalfinance/wiki/index/)
 - [JustETF](https://www.justetf.com/en/)
