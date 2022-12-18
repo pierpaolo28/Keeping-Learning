@@ -49,6 +49,9 @@ List of useful resources about Data, AI &amp; Cloud
 - [Aure's Notes](https://auresnotes.com/)
 - [Calvin Rosser](https://calvinrosser.com/)
 - [Dean Yeong](https://www.deanyeong.com/)
+- [Tyler DeVries](https://tylerdevries.com/)
+- [Samuel Thomas Davies](https://www.samuelthomasdavies.com/)
+- [What You Will Learn](https://www.whatyouwilllearn.com/)
 
 ## Courses
 - [Made With ML](https://madewithml.com/)
