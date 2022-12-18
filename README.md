@@ -128,11 +128,55 @@ List of useful resources about Data, AI &amp; Cloud
 - [JustETF](https://www.justetf.com/en/)
 - [Morning Star](https://www.morningstar.com/)
 - [ETF.com](https://www.etf.com/etfanalytics/etf-finder/)
+- [JL Collins](https://jlcollinsnh.com/)
+
+## Authors
+- James Clear
+- Naval Ravikant
+- Carlo Rovelli
+- Judea Pearl
+- Franz Kafka
+- Cormac McCarthy
+- Carlos Ruiz Zafón
+- Italo Calvino
+- George Orwell
+- Aldous Huxley
+- Ray Bradbury
+- Hannah Fry
+- Mark Manson
+- Stephen Hawking
+- Neil deGrasse Tyson
+- Matthew Syed
+- Voltaire
+- Cal Newport
+- Ryan Holiday
+- Yuval Noah Harari
+- Tim Ferriss
+- Richard Dawkins
+- Daniel Kahneman
+- Andrew D. Huberman
+- Steve Cutts
+- Alessandro Barbero
+- Brian Greene
+- Johnny Harris
+- Ray Dalio
+- Il Testimone - Piff
+- Umberto Galimberti
+- Matt Parker
+- Adam Kucharski
+- Robert Greene
+- Nassim Taleb
+- Simon Sinek
+- Adam Grant
+- Alan W Watts
+- Richard P. Feynman
+- Michael Sugrue
 
 ## Fun
 - [XKCD](https://xkcd.com/)
 - [Dilbert](https://dilbert.com/)
 - [SMBC](https://www.smbc-comics.com/)
+- [Vsauce](https://www.youtube.com/@Vsauce/featured)
 
 [contributors-shield]: https://img.shields.io/github/contributors/pierpaolo28/Keeping-Learning.svg?style=flat-square
 [contributors-url]: https://github.com/pierpaolo28/Keeping-Learning/graphs/contributors
