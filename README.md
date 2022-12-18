@@ -52,6 +52,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Tyler DeVries](https://tylerdevries.com/)
 - [Samuel Thomas Davies](https://www.samuelthomasdavies.com/)
 - [What You Will Learn](https://www.whatyouwilllearn.com/)
+- [Dan Silvestre](https://dansilvestre.com/)
 
 ## Courses
 - [Made With ML](https://madewithml.com/)
