@@ -110,6 +110,8 @@ List of useful resources about Data, AI &amp; Cloud
 - [Kaggle Days](https://kaggledays.com/)
 - [Levels.fyi](https://www.levels.fyi/blog/)
 - [Sifted](https://sifted.eu/)
+- [Awesome Italia Remote](https://github.com/italiaremote/awesome-italia-remote)
+- [LinkedIn Sales Navigator](https://www.linkedin.com/sales/ssi)
 
 ## Interesting concepts
 - [Aggregation Theory](https://stratechery.com/2015/aggregation-theory/)
