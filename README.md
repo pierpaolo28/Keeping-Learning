@@ -55,6 +55,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Samuel Thomas Davies](https://www.samuelthomasdavies.com/)
 - [What You Will Learn](https://www.whatyouwilllearn.com/)
 - [Dan Silvestre](https://dansilvestre.com/)
+- [Shepherd](https://shepherd.com/)
 
 ## Courses
 - [Made With ML](https://madewithml.com/)
@@ -66,6 +67,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Dive into Deep Learning](http://d2l.ai/index.html)
 - [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
 - [Deep Learning - Ian Goodfellow](https://www.deeplearningbook.org/)
+- [Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
 
 ## Interactive Explainations
 - [Seeing Theory](https://seeing-theory.brown.edu/)
@@ -75,6 +77,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [KDimensions](https://kdimensions.com/)
 - [Spurious Correlations](https://tylervigen.com/spurious-correlations)
 - [MLU Explain](https://mlu-explain.github.io/)
+- [Visualize Value](https://visualizevalue.com/)
 
 ## YouTube
 - [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
@@ -112,6 +115,8 @@ List of useful resources about Data, AI &amp; Cloud
 - [Sifted](https://sifted.eu/)
 - [Awesome Italia Remote](https://github.com/italiaremote/awesome-italia-remote)
 - [LinkedIn Sales Navigator](https://www.linkedin.com/sales/ssi)
+- [Funded & Hiring](https://fundedandhiring.com/)
+- [The Mentoring Club](https://www.mentoring-club.com/the-mentors/search-mentor)
 
 ## Interesting concepts
 - [Aggregation Theory](https://stratechery.com/2015/aggregation-theory/)
@@ -131,6 +136,8 @@ List of useful resources about Data, AI &amp; Cloud
 - [Morning Star](https://www.morningstar.com/)
 - [ETF.com](https://www.etf.com/etfanalytics/etf-finder/)
 - [JL Collins](https://jlcollinsnh.com/)
+- [Mr Money Mustache](https://www.mrmoneymustache.com/)
+- [Early Retirement Extreme](http://earlyretirementextreme.com/)
 
 ## Authors
 - James Clear
@@ -173,6 +180,7 @@ List of useful resources about Data, AI &amp; Cloud
 - Alan W Watts
 - Richard P. Feynman
 - Michael Sugrue
+- Jim Rohn
 
 ## Fun
 - [XKCD](https://xkcd.com/)
