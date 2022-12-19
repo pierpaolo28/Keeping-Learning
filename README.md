@@ -182,6 +182,11 @@ List of useful resources about Data, AI &amp; Cloud
 - Michael Sugrue
 - Jim Rohn
 
+## Products
+- [Product Hunt](https://www.producthunt.com/)
+- [Gumroad](https://gumroad.com/)
+- [RapidAPI](https://rapidapi.com/)
+
 ## Fun
 - [XKCD](https://xkcd.com/)
 - [Dilbert](https://dilbert.com/)
