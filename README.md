@@ -56,6 +56,11 @@ List of useful resources about Data, AI &amp; Cloud
 - [What You Will Learn](https://www.whatyouwilllearn.com/)
 - [Dan Silvestre](https://dansilvestre.com/)
 - [Shepherd](https://shepherd.com/)
+- [IVAYLO DURMONSKI](https://durmonski.com/)
+- [Matt Swain](https://www.mattswain.com/)
+- [Hustle Escape](https://www.hustleescape.com/)
+- [BooksConcepts](https://booksconcepts.com/)
+- [Graham Mann](https://www.grahammann.net/)
 
 ## Courses
 - [Made With ML](https://madewithml.com/)
