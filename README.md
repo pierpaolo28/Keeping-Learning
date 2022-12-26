@@ -38,6 +38,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Daniel Bourke](https://www.mrdbourke.com/)
 - [Amit Chaudhary](https://amitness.com/)
 - [Confessions of a Data Guy](https://www.confessionsofadataguy.com/)
+- [Simone Scardapane](https://www.sscardapane.it/)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
