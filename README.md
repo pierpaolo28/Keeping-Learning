@@ -62,6 +62,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Hustle Escape](https://www.hustleescape.com/)
 - [BooksConcepts](https://booksconcepts.com/)
 - [Graham Mann](https://www.grahammann.net/)
+- [Eternalised](https://eternalisedofficial.com/)
 
 ## Courses
 - [Made With ML](https://madewithml.com/)
