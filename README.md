@@ -63,6 +63,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [BooksConcepts](https://booksconcepts.com/)
 - [Graham Mann](https://www.grahammann.net/)
 - [Eternalised](https://eternalisedofficial.com/)
+- [Dante](https://dantekim.com/)
 
 ## Courses
 - [Made With ML](https://madewithml.com/)
