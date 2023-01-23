@@ -98,6 +98,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Lex Fridman](https://www.youtube.com/c/lexfridman)
 - [Serrano.Academy](https://www.youtube.com/c/LuisSerrano)
 - [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)
+- [Michael Sugrue](https://www.youtube.com/@dr.michaelsugrue)
 
 ## Cloud
 - [AWS Workshops](https://workshops.aws/)
@@ -134,6 +135,9 @@ List of useful resources about Data, AI &amp; Cloud
 - [Shepherd - Discover the best books](https://shepherd.com/)
 - [Welcome to the Experience Economy](https://hbr.org/1998/07/welcome-to-the-experience-economy)
 - [A not so gentle intro to web3](https://www.kooslooijesteijn.net/blog/web3)
+- [Minimalism](https://jamesclear.com/minimalism)
+- [Never Too Small](https://www.nevertoosmall.com/)
+- [Urbex](https://www.urbex.nl/)
 
 ## Personal Finance
 - [Retire In Progress](https://retireinprogress.com/)
