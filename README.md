@@ -136,6 +136,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Welcome to the Experience Economy](https://hbr.org/1998/07/welcome-to-the-experience-economy)
 - [A not so gentle intro to web3](https://www.kooslooijesteijn.net/blog/web3)
 - [Minimalism](https://jamesclear.com/minimalism)
+- [Longtermism](https://aeon.co/essays/why-longtermism-is-the-worlds-most-dangerous-secular-credo)
 - [Never Too Small](https://www.nevertoosmall.com/)
 - [Urbex](https://www.urbex.nl/)
 
@@ -193,6 +194,7 @@ List of useful resources about Data, AI &amp; Cloud
 - Richard P. Feynman
 - Michael Sugrue
 - Jim Rohn
+- Nick Bostrom
 
 ## Products
 - [Product Hunt](https://www.producthunt.com/)
