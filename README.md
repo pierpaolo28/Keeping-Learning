@@ -150,6 +150,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [ETF.com](https://www.etf.com/etfanalytics/etf-finder/)
 - [JL Collins](https://jlcollinsnh.com/)
 - [Mr Money Mustache](https://www.mrmoneymustache.com/)
+- [Mustachian Post Discussion Forum](https://forum.mustachianpost.com/)
 - [Early Retirement Extreme](http://earlyretirementextreme.com/)
 
 ## Authors
