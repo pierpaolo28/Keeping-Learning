@@ -152,6 +152,8 @@ List of useful resources about Data, AI &amp; Cloud
 - [Mr Money Mustache](https://www.mrmoneymustache.com/)
 - [Mustachian Post Discussion Forum](https://forum.mustachianpost.com/)
 - [Early Retirement Extreme](http://earlyretirementextreme.com/)
+- [Investopedia](https://www.investopedia.com/)
+- [Global Property Guide](https://www.globalpropertyguide.com/)
 
 ## Authors
 - James Clear
