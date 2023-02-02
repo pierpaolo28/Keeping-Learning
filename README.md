@@ -154,6 +154,8 @@ List of useful resources about Data, AI &amp; Cloud
 - [Early Retirement Extreme](http://earlyretirementextreme.com/)
 - [Investopedia](https://www.investopedia.com/)
 - [Global Property Guide](https://www.globalpropertyguide.com/)
+- [Optimized Portfolio](https://www.optimizedportfolio.com/)
+- [Lazy Portfolio ETF](http://www.lazyportfolioetf.com/)
 
 ## Authors
 - James Clear
