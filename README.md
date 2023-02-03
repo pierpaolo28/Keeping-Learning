@@ -39,6 +39,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Amit Chaudhary](https://amitness.com/)
 - [Confessions of a Data Guy](https://www.confessionsofadataguy.com/)
 - [Simone Scardapane](https://www.sscardapane.it/)
+- [ByteByteGo](https://bytebytego.com/)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
