@@ -77,6 +77,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
 - [Deep Learning - Ian Goodfellow](https://www.deeplearningbook.org/)
 - [Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
+- [Better Explained](https://betterexplained.com/)
 
 ## Interactive Explainations
 - [Seeing Theory](https://seeing-theory.brown.edu/)
