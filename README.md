@@ -158,6 +158,10 @@ List of useful resources about Data, AI &amp; Cloud
 - [Global Property Guide](https://www.globalpropertyguide.com/)
 - [Optimized Portfolio](https://www.optimizedportfolio.com/)
 - [Lazy Portfolio ETF](http://www.lazyportfolioetf.com/)
+- [BogleHeads](https://www.bogleheads.org/index.php)
+- [Portfolio Visualizer (with Backtesting)](https://www.portfoliovisualizer.com/)
+- [Wise Money (EU Investing)](https://www.bankeronwheels.com/)
+- [Index Fund Investor (EU Investing)](https://indexfundinvestor.eu/)
 
 ## Authors
 - James Clear
