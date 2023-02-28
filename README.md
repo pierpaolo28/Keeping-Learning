@@ -78,6 +78,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Deep Learning - Ian Goodfellow](https://www.deeplearningbook.org/)
 - [Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
 - [Better Explained](https://betterexplained.com/)
+- [Practical Deep Learning](https://course.fast.ai/)
 
 ## Interactive Explainations
 - [Seeing Theory](https://seeing-theory.brown.edu/)
