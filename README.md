@@ -80,6 +80,8 @@ List of useful resources about Data, AI &amp; Cloud
 - [Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/)
 - [Better Explained](https://betterexplained.com/)
 - [Practical Deep Learning](https://course.fast.ai/)
+- [Forage - Virtual Internship](https://www.theforage.com/)
+- [Amplifyme - Finance Accelerator Simulation](https://amplifyme.com/finance-accelerator)
 
 ## Interactive Explainations
 - [Seeing Theory](https://seeing-theory.brown.edu/)
