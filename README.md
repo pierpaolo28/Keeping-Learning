@@ -25,7 +25,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Daniele Grattarola](https://danielegrattarola.github.io/)
 - [Francesco Pochetti](https://francescopochetti.com/)
 - [Nick Singh](https://www.nicksingh.com/)
-- [Chip Huyen](https://huyenchip.com/)
+- [Chip Huyen](https://huyenchip.com/) + [resources](https://github.com/chiphuyen/dmls-book/blob/main/resources.md)
 - [Chris Albon](https://chrisalbon.com/)
 - [luminousmen](https://luminousmen.com/)
 - [Patrick Halina](http://patrickhalina.com/)
