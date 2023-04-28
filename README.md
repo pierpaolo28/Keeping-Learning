@@ -146,6 +146,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Longtermism](https://aeon.co/essays/why-longtermism-is-the-worlds-most-dangerous-secular-credo)
 - [Never Too Small](https://www.nevertoosmall.com/)
 - [Urbex](https://www.urbex.nl/)
+- [Levels.io](https://levels.io/blog/)
 
 ## Personal Finance
 - [Retire In Progress](https://retireinprogress.com/)
