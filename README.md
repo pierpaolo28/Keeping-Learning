@@ -41,6 +41,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Simone Scardapane](https://www.sscardapane.it/)
 - [ByteByteGo](https://bytebytego.com/)
 - [Machine learning at scale](https://www.machinelearningatscale.com/)
+- [Paepper.com](https://www.paepper.com/blog/)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
