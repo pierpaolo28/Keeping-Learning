@@ -43,6 +43,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Machine learning at scale](https://www.machinelearningatscale.com/)
 - [Paepper.com](https://www.paepper.com/blog/)
 - [Aidan Cooper](https://www.aidancooper.co.uk/)
+- [Beyond the Horizon](https://rajanieshkaushikk.com/)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
