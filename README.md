@@ -44,6 +44,8 @@ List of useful resources about Data, AI &amp; Cloud
 - [Paepper.com](https://www.paepper.com/blog/)
 - [Aidan Cooper](https://www.aidancooper.co.uk/)
 - [Beyond the Horizon](https://rajanieshkaushikk.com/)
+- [Jay Alammar](https://jalammar.github.io/)
+- [Dale On AI](https://daleonai.com/)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
