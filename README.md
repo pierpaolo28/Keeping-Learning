@@ -151,6 +151,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Never Too Small](https://www.nevertoosmall.com/)
 - [Urbex](https://www.urbex.nl/)
 - [Levels.io](https://levels.io/blog/)
+- [Indie Development - Startup Bootstrapping](https://www.wired.com/2014/08/12-startups-in-12-months/)
 
 ## Personal Finance
 - [Retire In Progress](https://retireinprogress.com/)
