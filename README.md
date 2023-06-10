@@ -47,6 +47,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Jay Alammar](https://jalammar.github.io/)
 - [Dale On AI](https://daleonai.com/)
 - [Eric Jang](https://evjang.com/)
+- [Arthur Douillard](https://arthurdouillard.com/)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
