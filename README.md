@@ -49,6 +49,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Eric Jang](https://evjang.com/)
 - [Arthur Douillard](https://arthurdouillard.com/)
 - [PyImageSearch](https://pyimagesearch.com/)
+- [Lewis Cole Blog](https://lewiscoleblog.com/)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
