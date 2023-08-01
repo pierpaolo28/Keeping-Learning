@@ -76,6 +76,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Graham Mann](https://www.grahammann.net/)
 - [Eternalised](https://eternalisedofficial.com/)
 - [Dante](https://dantekim.com/)
+- [Ness Labs](https://nesslabs.com/)
 
 ## Courses
 - [Made With ML](https://madewithml.com/)
