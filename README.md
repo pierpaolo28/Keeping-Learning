@@ -51,6 +51,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [PyImageSearch](https://pyimagesearch.com/)
 - [Lewis Cole Blog](https://lewiscoleblog.com/)
 - [Bioinformatics and other bits](https://dmnfarrell.github.io/)
+- [Roadmaps](https://roadmap.sh/)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
