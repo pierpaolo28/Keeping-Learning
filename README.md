@@ -56,6 +56,8 @@ List of useful resources about Data, AI &amp; Cloud
 - [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/blog/)
 - [ChristopherGS](https://christophergs.com/)
 - [Yanislav Donchev](https://yannidd.github.io/)
+- [Lil'Log](https://lilianweng.github.io/)
+- [Kanoki](https://kanoki.org/)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
