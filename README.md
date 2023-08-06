@@ -58,6 +58,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Yanislav Donchev](https://yannidd.github.io/)
 - [Lil'Log](https://lilianweng.github.io/)
 - [Kanoki](https://kanoki.org/)
+- [Aman Arora’s Blog](https://amaarora.github.io/)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
