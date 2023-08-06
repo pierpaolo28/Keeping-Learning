@@ -52,6 +52,10 @@ List of useful resources about Data, AI &amp; Cloud
 - [Lewis Cole Blog](https://lewiscoleblog.com/)
 - [Bioinformatics and other bits](https://dmnfarrell.github.io/)
 - [Roadmaps](https://roadmap.sh/)
+- [ML@CMU](https://blog.ml.cmu.edu/)
+- [Berkeley Artificial Intelligence Research](https://bair.berkeley.edu/blog/)
+- [ChristopherGS](https://christophergs.com/)
+- [Yanislav Donchev](https://yannidd.github.io/)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
