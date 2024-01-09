@@ -243,6 +243,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Dilbert](https://dilbert.com/)
 - [SMBC](https://www.smbc-comics.com/)
 - [Vsauce](https://www.youtube.com/@Vsauce/featured)
+- [Manu Cornet](https://ma.nu/)
 
 [contributors-shield]: https://img.shields.io/github/contributors/pierpaolo28/Keeping-Learning.svg?style=flat-square
 [contributors-url]: https://github.com/pierpaolo28/Keeping-Learning/graphs/contributors
