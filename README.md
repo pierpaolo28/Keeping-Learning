@@ -61,6 +61,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Aman Arora’s Blog](https://amaarora.github.io/)
 - [Luke Salamone's Blog](https://lukesalamone.github.io/)
 - [Joel on Software](https://www.joelonsoftware.com/)
+- [MLAbonne](https://mlabonne.github.io/blog/)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
