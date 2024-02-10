@@ -62,6 +62,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Luke Salamone's Blog](https://lukesalamone.github.io/)
 - [Joel on Software](https://www.joelonsoftware.com/)
 - [MLAbonne](https://mlabonne.github.io/blog/)
+- [Setosa](https://setosa.io/ev/)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
