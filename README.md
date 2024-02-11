@@ -192,6 +192,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Portfolio Visualizer (with Backtesting)](https://www.portfoliovisualizer.com/)
 - [Wise Money (EU Investing)](https://www.bankeronwheels.com/)
 - [Index Fund Investor (EU Investing)](https://indexfundinvestor.eu/)
+- [Street of Walls](https://www.streetofwalls.com/)
 
 ## Authors
 - James Clear
