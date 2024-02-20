@@ -64,6 +64,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [MLAbonne](https://mlabonne.github.io/blog/)
 - [Setosa](https://setosa.io/ev/)
 - [Alex Molas](https://www.alexmolas.com/)
+- [The Cloud Girl](https://www.thecloudgirl.dev/)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
