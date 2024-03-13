@@ -195,6 +195,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Wise Money (EU Investing)](https://www.bankeronwheels.com/)
 - [Index Fund Investor (EU Investing)](https://indexfundinvestor.eu/)
 - [Street of Walls](https://www.streetofwalls.com/)
+- [Of Dollars and Data](https://ofdollarsanddata.com/)
 
 ## Authors
 - James Clear
