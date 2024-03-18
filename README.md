@@ -108,6 +108,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Practical Deep Learning](https://course.fast.ai/)
 - [Forage - Virtual Internship](https://www.theforage.com/)
 - [Amplifyme - Finance Accelerator Simulation](https://amplifyme.com/finance-accelerator)
+- [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
 
 ## Interactive Explainations
 - [Seeing Theory](https://seeing-theory.brown.edu/)
