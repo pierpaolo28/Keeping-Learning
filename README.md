@@ -120,6 +120,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Spurious Correlations](https://tylervigen.com/spurious-correlations)
 - [MLU Explain](https://mlu-explain.github.io/)
 - [Visualize Value](https://visualizevalue.com/)
+- [Transformers - FT](https://ig.ft.com/generative-ai/)
 
 ## YouTube
 - [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
