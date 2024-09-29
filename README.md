@@ -246,6 +246,7 @@ List of useful resources about Data, AI &amp; Cloud
 - Michael Sugrue
 - Jim Rohn
 - Nick Bostrom
+- Seth Godin
 
 ## Products
 - [Product Hunt](https://www.producthunt.com/)
