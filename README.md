@@ -247,6 +247,7 @@ List of useful resources about Data, AI &amp; Cloud
 - Jim Rohn
 - Nick Bostrom
 - Seth Godin
+- Peter Drucker
 
 ## Products
 - [Product Hunt](https://www.producthunt.com/)
