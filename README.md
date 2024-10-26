@@ -68,6 +68,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Paul Graham](https://www.paulgraham.com/)
 - [BAIR](https://bair.berkeley.edu/blog/)
 - [hlfshell](https://hlfshell.ai/)
+- [Max Woolf's Blog](https://minimaxir.com/)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
