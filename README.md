@@ -96,6 +96,8 @@ List of useful resources about Data, AI &amp; Cloud
 - [Dante](https://dantekim.com/)
 - [Ness Labs](https://nesslabs.com/)
 - [Ali Abdaal](https://aliabdaal.com/book-notes/)
+- [To Summarise](https://www.tosummarise.com/)
+- [Sameer Bajaj](https://sameerbajaj.com/)
 
 ## Courses
 - [Made With ML](https://madewithml.com/)
