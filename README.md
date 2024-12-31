@@ -141,6 +141,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Serrano.Academy](https://www.youtube.com/c/LuisSerrano)
 - [StatQuest with Josh Starmer](https://www.youtube.com/c/joshstarmer)
 - [Michael Sugrue](https://www.youtube.com/@dr.michaelsugrue)
+- [AI Explained](https://www.youtube.com/@aiexplained-official)
 
 ## Cloud
 - [AWS Workshops](https://workshops.aws/)
@@ -183,6 +184,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Urbex](https://www.urbex.nl/)
 - [Levels.io](https://levels.io/blog/)
 - [Indie Development - Startup Bootstrapping](https://www.wired.com/2014/08/12-startups-in-12-months/)
+- [Art of Mainliness](https://www.artofmanliness.com/)
 
 ## Personal Finance
 - [Retire In Progress](https://retireinprogress.com/)
