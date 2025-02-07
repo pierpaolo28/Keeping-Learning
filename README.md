@@ -100,6 +100,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Ali Abdaal](https://aliabdaal.com/book-notes/)
 - [To Summarise](https://www.tosummarise.com/)
 - [Sameer Bajaj](https://sameerbajaj.com/)
+- [Phil Schmid](https://www.philschmid.de/)
 
 ## Courses
 - [Made With ML](https://madewithml.com/)
