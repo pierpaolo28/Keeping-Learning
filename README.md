@@ -71,6 +71,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Max Woolf's Blog](https://minimaxir.com/)
 - [Sahil Lavingia](https://sahillavingia.com/)
 - [Hamel Husain Blog](https://hamel.dev/)
+- [Sam Altman](https://blog.samaltman.com/archive)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
