@@ -189,6 +189,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Levels.io](https://levels.io/blog/)
 - [Indie Development - Startup Bootstrapping](https://www.wired.com/2014/08/12-startups-in-12-months/)
 - [Art of Mainliness](https://www.artofmanliness.com/)
+- [Entrepreneurship Through Acquisition (ETA)](https://knowledge.insead.edu/entrepreneurship/buy-then-build-be-entrepreneur-without-start)
 
 ## Personal Finance
 - [Retire In Progress](https://retireinprogress.com/)
@@ -212,6 +213,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Index Fund Investor (EU Investing)](https://indexfundinvestor.eu/)
 - [Street of Walls](https://www.streetofwalls.com/)
 - [Of Dollars and Data](https://ofdollarsanddata.com/)
+- [Monevator](https://monevator.com/)
 
 ## Authors
 - James Clear
