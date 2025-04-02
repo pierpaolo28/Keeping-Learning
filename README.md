@@ -9,6 +9,7 @@ List of useful resources about Data, AI &amp; Cloud
 
 ## Tech Blogs
 - [Distill](https://distill.pub/)
+- [Transformer Circuits Thread](https://transformer-circuits.pub/)
 - [Sebastian Raschka](https://sebastianraschka.com/)
 - [Neal Lathia](https://nlathia.github.io/)
 - [Hacker News](https://news.ycombinator.com/)
