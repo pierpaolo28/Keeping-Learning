@@ -74,6 +74,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Hamel Husain Blog](https://hamel.dev/)
 - [Sam Altman](https://blog.samaltman.com/archive)
 - [Namanyay Blog](https://nmn.gl/blog/)
+- [AI 2027](https://ai-2027.com/)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
