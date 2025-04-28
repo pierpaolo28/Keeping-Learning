@@ -75,6 +75,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Sam Altman](https://blog.samaltman.com/archive)
 - [Namanyay Blog](https://nmn.gl/blog/)
 - [AI 2027](https://ai-2027.com/)
+- [Dario Amodei](https://www.darioamodei.com/)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
