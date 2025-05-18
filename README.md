@@ -194,6 +194,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Indie Development - Startup Bootstrapping](https://www.wired.com/2014/08/12-startups-in-12-months/)
 - [Art of Mainliness](https://www.artofmanliness.com/)
 - [Entrepreneurship Through Acquisition (ETA)](https://knowledge.insead.edu/entrepreneurship/buy-then-build-be-entrepreneur-without-start)
+- [The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)
 
 ## Personal Finance
 - [Retire In Progress](https://retireinprogress.com/)
