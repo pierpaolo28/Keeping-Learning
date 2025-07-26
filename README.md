@@ -107,6 +107,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [To Summarise](https://www.tosummarise.com/)
 - [Sameer Bajaj](https://sameerbajaj.com/)
 - [Phil Schmid](https://www.philschmid.de/)
+- [Calvin French-Owen](https://calv.info/)
 
 ## Courses
 - [Made With ML](https://madewithml.com/)
