@@ -127,6 +127,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Amplifyme - Finance Accelerator Simulation](https://amplifyme.com/finance-accelerator)
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
 - [Roadmap.sh](https://roadmap.sh/)
+- [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)
 
 ## Interactive Explainations
 - [Seeing Theory](https://seeing-theory.brown.edu/)
