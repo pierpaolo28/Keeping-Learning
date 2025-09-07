@@ -128,6 +128,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
 - [Roadmap.sh](https://roadmap.sh/)
 - [How to Scale Your Model](https://jax-ml.github.io/scaling-book/)
+- [Deep Learning - Alfredo Canziani](https://atcold.github.io/NYU-DLSP21/)
 
 ## Interactive Explainations
 - [Seeing Theory](https://seeing-theory.brown.edu/)
