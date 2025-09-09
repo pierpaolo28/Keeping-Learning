@@ -77,6 +77,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [AI 2027](https://ai-2027.com/)
 - [Dario Amodei](https://www.darioamodei.com/)
 - [Pete Koomen](https://koomen.dev/)
+- [Jaclyn Konzelmann](https://blog.jaclynkonzelmann.com/)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
