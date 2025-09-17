@@ -79,6 +79,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Pete Koomen](https://koomen.dev/)
 - [Jaclyn Konzelmann](https://blog.jaclynkonzelmann.com/)
 - [Hardik Pandya](https://hvpandya.com/)
+- [Jason Spielman](https://jasonspielman.com/)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
