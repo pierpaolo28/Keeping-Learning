@@ -202,6 +202,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Art of Mainliness](https://www.artofmanliness.com/)
 - [Entrepreneurship Through Acquisition (ETA)](https://knowledge.insead.edu/entrepreneurship/buy-then-build-be-entrepreneur-without-start)
 - [The Techno-Optimist Manifesto](https://a16z.com/the-techno-optimist-manifesto/)
+- [Acquired- Every company has a story.](https://www.acquired.fm/)
 
 ## Personal Finance
 - [Retire In Progress](https://retireinprogress.com/)
