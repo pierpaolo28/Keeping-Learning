@@ -275,6 +275,7 @@ List of useful resources about Data, AI &amp; Cloud
 - Peter Drucker
 - [Jim Donovan](https://www.law.virginia.edu/faculty/adjunct-profile/jd3tr/2140720)
 - Studio Ghibli
+- [Salvatore Sanfilippo](http://invece.org/)
 
 ## Products
 - [Product Hunt](https://www.producthunt.com/)
