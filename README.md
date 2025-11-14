@@ -80,6 +80,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Jaclyn Konzelmann](https://blog.jaclynkonzelmann.com/)
 - [Hardik Pandya](https://hvpandya.com/)
 - [Jason Spielman](https://jasonspielman.com/)
+- [Situational Awareness](https://situational-awareness.ai/)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
