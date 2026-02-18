@@ -83,6 +83,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Situational Awareness](https://situational-awareness.ai/)
 - [sean goedecke](https://www.seangoedecke.com/)
 - [Addy Osmani](https://addyosmani.com/)
+- [Signal Pirate (Italiano)](https://pinperepette.github.io/signal.pirate/index.html?t=d)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
