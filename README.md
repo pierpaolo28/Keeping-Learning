@@ -86,6 +86,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Signal Pirate (Italiano)](https://pinperepette.github.io/signal.pirate/index.html?t=d)
 - [Amplifying AI](https://amplifying.ai/)
 - [Bassim Eledath](https://www.bassimeledath.com/)
+- [Sahaj Garg](https://sahajgarg.github.io/)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
