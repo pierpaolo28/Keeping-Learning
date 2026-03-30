@@ -119,6 +119,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Phil Schmid](https://www.philschmid.de/)
 - [Calvin French-Owen](https://calv.info/)
 - [Delphi Intelligence](https://www.delphiintelligence.io/)
+- [Om](https://om.co/)
 
 ## Courses
 - [Made With ML](https://madewithml.com/)
