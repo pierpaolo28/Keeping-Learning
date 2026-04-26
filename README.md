@@ -87,6 +87,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Amplifying AI](https://amplifying.ai/)
 - [Bassim Eledath](https://www.bassimeledath.com/)
 - [Sahaj Garg](https://sahajgarg.github.io/)
+- [Qi Han Wong](https://wongqihan.com/)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
