@@ -152,6 +152,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [MLU Explain](https://mlu-explain.github.io/)
 - [Visualize Value](https://visualizevalue.com/)
 - [Transformers - FT](https://ig.ft.com/generative-ai/)
+- [The Pudding](https://pudding.cool/)
 
 ## YouTube
 - [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
