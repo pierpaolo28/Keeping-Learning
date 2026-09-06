@@ -89,6 +89,7 @@ List of useful resources about Data, AI &amp; Cloud
 - [Sahaj Garg](https://sahajgarg.github.io/)
 - [Qi Han Wong](https://wongqihan.com/)
 - [A Geek's Page](https://wangcong.org/)
+- [FLAVIO COPES](https://flaviocopes.com/)
 
 ## Blogs & Book Summaries
 - [Wait But Why](https://waitbutwhy.com/)
